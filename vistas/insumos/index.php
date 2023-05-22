@@ -67,6 +67,7 @@
                         <input type="text" name="insu_prov" id="insu" class="form-control" required>
                     </div>
                 </div>
+                    <!-- POR FUNCIONALIDAD LOS DATOS NUMERICOS CANTIDAD Y PRECIO QUEDAN ANEXADOS -->
                 <div class="row mb-3">
                     <div class="col">
                         <label for="insu_cant">Cantidad en Existencia</label>
