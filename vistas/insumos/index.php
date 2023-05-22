@@ -64,7 +64,7 @@
                 <div class="row mb-3">
                     <div class="col">
                         <label for="insu_prov">Nombre del Proveedor</label>
-                        <input type="text" name="insu_prv" id="insu" class="form-control" min="10000000" max="99999999" required>
+                        <input type="text" name="insu_prov" id="insu" class="form-control" required>
                     </div>
                 </div>
                 <div class="row mb-3">
