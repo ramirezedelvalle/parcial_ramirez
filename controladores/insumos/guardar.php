@@ -6,7 +6,7 @@ require '../../modelos/insumos.php';
 try {
     $insumos = new insumos($_POST);
     $resultado = $insumos->guardar();
-    $error = "NO se guardó correctamente";
+    $error = "No se guardó correctamente";
 } catch (PDOException $e) {
     $error = $e->getMessage();
 } catch (Exception $e2){
